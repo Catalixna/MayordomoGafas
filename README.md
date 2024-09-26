@@ -1,2 +1,1 @@
-# MayordomoGafas
-ve imagenes 
+# vision_app
