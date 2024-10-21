@@ -16,7 +16,7 @@ st.write("Con esta pagina podras montar imagenes y esta te dira que es... ")
 ke = st.text_input('Ingresa tu Clave')
 #os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 os.environ['OPENAI_API_KEY'] = ke
-st.write("Clave: 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" ")
+st.write("Clave: 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")
 
 # Retrieve the OpenAI API Key from secrets
 api_key = os.environ['OPENAI_API_KEY']
